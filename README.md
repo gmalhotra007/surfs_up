@@ -15,11 +15,11 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the date colu
 ---
 #### June Summary:
 
-<img src= "june.png"> /img
+<img src= "june.png">/img
 
 #### December Summary:
 
-<img src= "dec.png"> /img
+<img src= "dec.png">/img
 
 - We can do analysis and find out temperature for the month of June and December for the most active station `USC00519281`
 
